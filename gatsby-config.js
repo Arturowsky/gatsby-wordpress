@@ -9,7 +9,7 @@ module.exports = {
       resolve: 'gatsby-source-wordpress',
       options: {
         // The base url to your WP site.
-        baseUrl: 'https://wordpress.com/page/eminem394020062.wordpress.com/5',
+        baseUrl: 'https://wordpress.com/page/eminem394020062.wordpress.com/',
         // WP.com sites set to true, WP.org set to false
         hostingWPCOM: true,
         // The protocol. This can be http or https.
